@@ -1,1 +1,6 @@
-# TerminalSuporte.ConsoleApp
+# TerminalSuporte.ConsoleApp![Uploading Captura de Tela (2).png…]()
+![Uploading Captura de Tela (3).png…]()
+![Uploading Captura de Tela (4).png…]()
+![Uploading Captura de Tela (5).png…]()
+![Uploading Captura de Tela (6).png…]()
+![Uploading Captura de Tela (7).png…]()
